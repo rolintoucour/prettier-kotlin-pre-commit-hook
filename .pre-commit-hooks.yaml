@@ -1,6 +1,6 @@
-- id: prettier-java
-  name: prettier for Java
+- id: prettier-kotlin
+  name: prettier for kotlin
   entry: prettier --write
   language: node
-  files: "java"
+  files: "kt"
 

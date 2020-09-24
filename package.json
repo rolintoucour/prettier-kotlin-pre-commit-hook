@@ -1,15 +1,15 @@
 {
-  "name": "prettier-java-pre-commit-hook",
+  "name": "prettier-kotlin-pre-commit-hook",
   "version": "1.0.0",
-  "description": "A pre-commit hook configuration to use prettier-plugin-java",
+  "description": "A pre-commit hook configuration to use prettier-plugin-kotlin",
   "bin": {
     "prettier": "./node_modules/.bin/prettier"
   },
-  "repository": "https://github.com/ekans/prettier-java-pre-commit-hook",
-  "author": "Ekans",
+  "repository": "https://github.com/rolintoucour/prettier-kotlin-pre-commit-hook",
+  "author": "rolintoucour",
   "license": "Apache-2.0",
   "dependencies": {
-    "prettier": "2.1.1",
-    "prettier-plugin-java": "0.8.1"
+    "prettier": "2.1.2",
+    "prettier-plugin-kotlin": "2.0.0"
   }
 }
